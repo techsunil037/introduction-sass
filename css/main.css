@@ -1,0 +1,19 @@
+.nav {
+  background-color: rgba(255, 165, 0, 0.4); }
+  .nav ul li {
+    list-style: none; }
+  .nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: grey; }
+    .nav a:hover {
+      color: royalblue; }
+
+.heading {
+  color: orange;
+  font-size: 40px;
+  background-color: grey;
+  text-align: center; }
+
+.banner p {
+  font-size: 40px; }
